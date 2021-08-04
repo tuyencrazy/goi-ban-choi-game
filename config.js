@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Alo bạn à!',
     introDesc: `Vào game đi bạn`,
-    btnIntro: 'Ok',
+    btnIntro: 'Ok nha',
     title: 'Nhanh đi bạn',
     desc: 'Tôi đang chờ bạn này ',
     btnYes: 'OK luôn',
